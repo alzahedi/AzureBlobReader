@@ -2,7 +2,7 @@ package example.azure
 
 object BlobReader extends App {
 
-  val accountName = "sparkblobpoc"
+  val accountName = "guptasnigdhatest"
   val containerName = "pricing"
 
   val spark = SparkUtils.createSparkSession()
